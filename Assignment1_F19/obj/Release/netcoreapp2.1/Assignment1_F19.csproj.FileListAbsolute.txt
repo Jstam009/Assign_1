@@ -1,0 +1,11 @@
+C:\Users\jstam\source\repos\Assignment1_F19\Assignment1_F19\bin\Release\netcoreapp2.1\Assignment1_F19.deps.json
+C:\Users\jstam\source\repos\Assignment1_F19\Assignment1_F19\bin\Release\netcoreapp2.1\Assignment1_F19.runtimeconfig.json
+C:\Users\jstam\source\repos\Assignment1_F19\Assignment1_F19\bin\Release\netcoreapp2.1\Assignment1_F19.runtimeconfig.dev.json
+C:\Users\jstam\source\repos\Assignment1_F19\Assignment1_F19\bin\Release\netcoreapp2.1\Assignment1_F19.dll
+C:\Users\jstam\source\repos\Assignment1_F19\Assignment1_F19\bin\Release\netcoreapp2.1\Assignment1_F19.pdb
+C:\Users\jstam\source\repos\Assignment1_F19\Assignment1_F19\obj\Release\netcoreapp2.1\Assignment1_F19.csprojAssemblyReference.cache
+C:\Users\jstam\source\repos\Assignment1_F19\Assignment1_F19\obj\Release\netcoreapp2.1\Assignment1_F19.csproj.CoreCompileInputs.cache
+C:\Users\jstam\source\repos\Assignment1_F19\Assignment1_F19\obj\Release\netcoreapp2.1\Assignment1_F19.AssemblyInfoInputs.cache
+C:\Users\jstam\source\repos\Assignment1_F19\Assignment1_F19\obj\Release\netcoreapp2.1\Assignment1_F19.AssemblyInfo.cs
+C:\Users\jstam\source\repos\Assignment1_F19\Assignment1_F19\obj\Release\netcoreapp2.1\Assignment1_F19.dll
+C:\Users\jstam\source\repos\Assignment1_F19\Assignment1_F19\obj\Release\netcoreapp2.1\Assignment1_F19.pdb
