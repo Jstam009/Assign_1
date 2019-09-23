@@ -32,11 +32,11 @@ namespace Assignment1_F19
 
             Console.WriteLine("Question 5: ");
             int[] arr1 = new int[] { 1, 2, 5, 6, 7, 8, 9 };
-            int[] arr2 = new int[] { 1, 2, 3, 4, 5 };
-            int[] r5 = getLargestCommonSubArray(arr1, arr2);
-            Console.WriteLine(r5);
+            displayArray(arr1);
 
-           /* solvePuzzle();*/
+
+
+            /* solvePuzzle();*/
         }
 
         public static void printSelfDividingNumbers(int x, int y)
@@ -151,7 +151,7 @@ namespace Assignment1_F19
             return 0;//Allow for final path to return 0 value
         }
 
-        public static int[] getLargestCommonSubArray(int[] a, int[] b)
+        public static void displayArray(int[] a)
         {
             try
             {
@@ -160,19 +160,14 @@ namespace Assignment1_F19
                 //Start from largest to smallest, then do 2,3,4,5, and 1,2,3,4 smaller 
                 //Then 3,4,5/2,3,4/1,2,3
                 int arrayA = 0;
-                int arrayB = 0;
 
                 for (int i = 0; i < a.Length; i++)//Logic for counting array up 
                 {
-                    if (a[arrayA] == b[arrayB])//If array is the same, add 1 to array 1
                     {
                         arrayA += 1;
                     }
-                    else//If Different, add to array b 
-                    {
-                        arrayB += 1;
-                    }
-                     
+
+                    Console.Write(arrayA + ", ");    
 
 
 
@@ -182,9 +177,6 @@ namespace Assignment1_F19
             {
                 Console.WriteLine("Exception occured while computing getLargestCommonSubArray()");
             }
-
-            return null;
-
         }
     }
 }
